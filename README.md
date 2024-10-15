@@ -1,6 +1,6 @@
 # tree-sitter-while
 
-[while](https://github.com/RubixDev/while-lang) grammar for
+[while](https://github.com/Gobidev/while-lang) grammar for
 [tree-sitter](https://github.com/tree-sitter/tree-sitter)
 
 ## Usage in Neovim
