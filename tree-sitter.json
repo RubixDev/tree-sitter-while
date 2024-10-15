@@ -1,0 +1,28 @@
+{
+  "grammars": [{
+    "name": "while",
+    "camelcase": "While",
+    "scope": "source.while",
+    "path": ".",
+    "file-types": ["while"]
+  }],
+  "metadata": {
+    "version": "0.1.0",
+    "license": "MIT",
+    "description": "while grammar for tree-sitter",
+    "authors": [{
+      "name": "RubixDev"
+    }],
+    "links": {
+      "repository": "https://github.com/RubixDev/tree-sitter-while"
+    }
+  },
+  "bindings": {
+    "c": true,
+    "go": true,
+    "node": true,
+    "python": true,
+    "rust": true,
+    "swift": true
+  }
+}
